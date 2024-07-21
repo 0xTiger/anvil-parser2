@@ -1,4 +1,4 @@
-# anvil-parser
+# anvil-parser2
 [![Documentation Status](https://readthedocs.org/projects/anvil-parser/badge/?version=latest)](https://anvil-parser.readthedocs.io/en/latest/?badge=latest)
 [![Tests](https://github.com/0xTiger/anvil-parser/actions/workflows/run-pytest.yml/badge.svg)](https://github.com/0xTiger/anvil-parser/actions/workflows/run-pytest.yml)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/anvil-parser)](https://pypi.org/project/anvil-parser2/)
