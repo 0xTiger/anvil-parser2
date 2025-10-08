@@ -56,5 +56,4 @@ region.save('r.0.0.mca')
 - [ ] More tests
   - [ ] Tests for 20w17a+ BlockStates format
 # Note
-Testing done in 1.14.4 - 1.19, should work fine for other versions. 
-Writing chunks and regions is broken from 1.16 onwards
+Testing done in 1.14.4 - 1.21, should work fine for other versions.
